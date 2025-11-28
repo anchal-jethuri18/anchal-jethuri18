@@ -1,16 +1,26 @@
-## Hi there 👋
+<# 👋 Hi, I'm Anchal
 
-<!--
+### MERN Stack Developer | React • Node • MongoDB
+
+## 🚀 About Me
+- Passionate about building web applications  
+- Love working with JavaScript & MERN Stack  
+- Always learning and improving
+
+## 🛠️ Skills
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML, CSS, JavaScript
+
+## 📂 Projects
+- **Expense Tracker (MERN)**  
+  [GitHub Repo](https://github.com/your-username/expense-tracker)
+
+- **Interview Preparation AI App**  
+  [GitHub Repo](https://github.com/your-username/interview-ai)
+
 **anchal-jethuri18/anchal-jethuri18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
