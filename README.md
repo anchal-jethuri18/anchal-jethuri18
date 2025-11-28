@@ -1,6 +1,6 @@
 <# 👋 Hi, I'm Anchal
 
-### MERN Stack Developer | React • Node • MongoDB
+### MERN Stack Developer | React • Node • MongoDB • Express
 
 ## 🚀 About Me
 - Passionate about building web applications  
