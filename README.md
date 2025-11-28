@@ -21,6 +21,6 @@
 - **Interview Preparation AI App**  
   [GitHub Repo](https://github.com/anchal-jethuri18/Interview-Preparation-AI)
 
-**anchal-jethuri18/anchal-jethuri18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
