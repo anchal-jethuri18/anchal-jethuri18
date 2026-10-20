@@ -1,4 +1,4 @@
-<# 👋 Hi, I'm Anchal
+# Hi, I'm Anchal! 👋
 
 ### MERN Stack Developer | React • Node • MongoDB • Express
 
