@@ -13,7 +13,7 @@
 - Express.js
 - MongoDB
 - HTML, CSS, JavaScript
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode&perline=6)](https://skillicons.dev)
 ## 📂 Projects
 - **Expense Tracker (MERN)**  
   [GitHub Repo](https://github.com/anchal-jethuri18/Expense-Tracker)
