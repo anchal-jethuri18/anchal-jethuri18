@@ -16,10 +16,10 @@ I design and develop responsive full-stack web applications, from React interfac
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwindCss&perline=4)](https://skillicons.dev)
 ## 📂 Projects
 - **Interview Preparation AI**
-   Generates personalized interview questions and answers with the Gemini API. Includes authentication, pin/save and question expansion.    | MERN, Gemini API, Tailwind CSS
+   | Generates personalized interview questions and answers with the Gemini API. Includes authentication, pin/save and question expansion.    | MERN, Gemini API, Tailwind CSS
    | [Code](https://github.com/anchal-jethuri18/Interview-Preparation-AI) · 
 - **Expense Tracker**
-   Records and categorizes income and expenses, with monthly reports and charts.
+  | Records and categorizes income and expenses, with monthly reports and charts.
    | MongoDB, Express, React.js, Node.js
    | [Code](https://github.com/anchal-jethuri18/Expense-Tracker) · 
 
