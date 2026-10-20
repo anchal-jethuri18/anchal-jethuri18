@@ -6,13 +6,15 @@
 - Passionate about building web applications  
 - Love working with JavaScript & MERN Stack  
 - Always learning and improving
-
+  
 ## 🛠️ Skills
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- HTML, CSS, JavaScript
+
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:**  GitHub, VS Code, Tailwind CSS
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode&perline=5)](https://skillicons.dev)
 ## 📂 Projects
 - **Expense Tracker (MERN)**  
