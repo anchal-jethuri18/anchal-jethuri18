@@ -33,4 +33,4 @@ I design and develop responsive full-stack web applications, from React interfac
 - LinkedIn: [linkedin.com/in/anchal-jethuri](https://linkedin.com/in/anchal-jethuri-a6363b398)
 - Email: anchaljethur@gmail.com
 
-⭐ Currently looking for  MERN Stack / Frontend Developer opportunities.
+⭐ Currently looking for  MERN Stack / Frontend / Web Developer opportunities.
