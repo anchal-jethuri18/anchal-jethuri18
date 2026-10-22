@@ -31,9 +31,8 @@ I design and develop responsive full-stack web applications, from React interfac
 - Introduction to Google Gemini, Simplilearn (2026)
 
 ## 📫 Let's Connect
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-jethuri-a6363b398): [linkedin.com/in/anchal-jethuri](https://linkedin.com/in/anchal-jethuri-a6363b398)
-- Email: anchaljethur@gmail.com
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-jethuri-a6363b398)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anchaljethur@gmail.com) 
 ⭐ Currently looking for  MERN Stack / Frontend / Web Developer opportunities.
 
 ## 🌐 Socials:
